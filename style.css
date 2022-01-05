@@ -1,0 +1,40 @@
+h2{
+    font-size: large;
+
+}
+.conteinar{
+    color: blue;
+}
+h3{
+    color: chartreuse;
+}
+section{
+    display: flex;
+   padding: 30px;
+}
+.red{
+    width: 50%;
+    
+}
+.red img{
+    width:20% ;
+}
+.link-button{
+    text-decoration: none;
+    background-color: lightcoral;
+    padding: 10px 20px;
+    font-weight: 400
+    
+}
+.top-banner{
+    background-image: url(img/top-banner.png)
+    background-repeat:no-repeat
+   
+    ;
+}
+  
+
+
+    
+
+
